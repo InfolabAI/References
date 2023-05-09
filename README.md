@@ -1,1 +1,1 @@
-Reference code for <python path>/site-packages/fairseq-cli
+Reference code for ${PYTHON PATH}/site-packages/fairseq-cli
